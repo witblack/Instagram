@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Date: 12/29/2018
 # Author: Mohamed
 # Description: Instagram bruter
